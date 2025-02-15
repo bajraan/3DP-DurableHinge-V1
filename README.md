@@ -14,15 +14,13 @@
     <br>
 </p>
 
-> [!CAUTION]
-> README.md file under heavy construction. Please do not use this file if you see this alert. The information contained in this file may be misleading. Kindly wait for updates.
-
 > [!IMPORTANT]
->This model requires additional parts. If you are unable to obtain them, you will not be able to reproduce it properly. Please refer to the list below for the required components needed for this creation.
+>**This model requires additional parts. If you are unable to obtain them, you will not be able to reproduce it properly. Please refer to the list below for the required components needed for this creation.**
 
-> [!NOTE]
-> PBA-DurableHinge-V1 
-> Durable Hinge with steel parts enhancement
+<p align="center">
+    <b>3DP-DurableHinge-V1</b><br>
+    Durable Hinge with steel parts enhancement
+</p>
 
 > [!NOTE]
 >
