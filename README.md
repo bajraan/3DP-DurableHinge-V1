@@ -4,7 +4,7 @@
 > README.md file under heavy construction. Please do not use this file if you see this alert. The information contained in this file may be misleading. Kindly wait for updates.
 
 <div align="center">
-    <img src="flayer.png" width="500" height="500"/>
+    <img src="Flyer.png" width="500" height="500"/>
 </div>
 <br>
 <p align="center">
@@ -25,13 +25,13 @@
 > Durable Hinge with steel parts enhancement
 
 > [!NOTE]
-> ANG:
-> 1 Printed part A 	     x1
-> 2 Printed part B 	     x1 
-> 3 Ericsson flat head nut M8 x2 [ Wood furniture Part ]
-> 4 Wood insert nut M5x12     x7 [ Wood furniture Part ]
-> 5 Screw DIN912 M5x20 	     x7 [ Regular steel Part  ]
-> 6 Steel threaded rod M8X55  x1 [ Regular steel Part  ]
-> 7 Nylon washer M8x2         x2 [ Regular steel Part  ]
+>
+> 1. Printed part A 	     x1
+> 2. Printed part B 	     x1 
+> 3. Ericsson flat head nut M8 x2 [ Wood furniture Part ]
+> 4. Wood insert nut M5x12     x7 [ Wood furniture Part ]
+> 5. Screw DIN912 M5x20 	     x7 [ Regular steel Part  ]
+> 6. Steel threaded rod M8X55  x1 [ Regular steel Part  ]
+> 7. Nylon washer M8x2         x2 [ Regular steel Part  ]
 
 <!-- End README -->
