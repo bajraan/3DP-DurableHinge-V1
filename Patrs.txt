@@ -1,0 +1,20 @@
+3DP-DurableHinge-V1 
+Durable Hinge with steel parts enhancement
+
+ANG:
+1. Printed part A 	     x1
+2. Printed part B 	     x1 
+3. Ericsson flat head nut M8 x2 [ Wood furniture Part ]
+4. Wood insert nut M5x12     x7 [ Wood furniture Part ]
+5. Screw DIN912 M5x20 	     x7 [ Regular steel Part  ]
+6. Steel threaded rod M8X55  x1 [ Regular steel Part  ]
+7. Nylon washer M8x2         x2 [ Regular steel Part  ]
+
+PL:
+1. Wydruk part A 	     		x1
+2. Wydruk part B 	     		x1 
+3. Śruba ericssona M8 	     		x2 [ Meblarstwo ]
+4. Mufa meblowa dwugwintowa M5x12     	x7 [ Meblarstwo ]
+5. Śruba DIN912 M5x20 	     		x7 [ Normalia metalowe  ]
+6. Pręt gwintowany M8X55  		x1 [ Normalia metalowe  ]
+7. Podkładka nylonowa M8x2         	x2 [ Normalia metalowe  ]
