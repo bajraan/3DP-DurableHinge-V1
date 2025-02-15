@@ -1,7 +1,9 @@
 <!-- Begin README -->
 
-> [!CAUTION]
-> README.md file under heavy construction. Please do not use this file if you see this alert. The information contained in this file may be misleading. Kindly wait for updates.
+<p align="center">
+    <font size="5"><b>3DP-DurableHinge-V1</b></font><br>
+    <font size="4">Durable Hinge with steel parts enhancement</font>
+</p>
 
 <div align="center">
     <img src="Flyer.png" width="500" height="500"/>
@@ -17,10 +19,7 @@
 > [!IMPORTANT]
 >**This model requires additional parts. If you are unable to obtain them, you will not be able to reproduce it properly. Please refer to the list below for the required components needed for this creation.**
 
-<p align="center">
-    <b>3DP-DurableHinge-V1</b><br>
-    Durable Hinge with steel parts enhancement
-</p>
+
 
 > [!NOTE]
 >
