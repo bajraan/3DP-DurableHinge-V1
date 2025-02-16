@@ -33,12 +33,12 @@
 >| 7  | Nylon washer M8x2         | x 2 | Regular steel Part  |
 >```
 > <div align="center">
->     <img src="05_Inkscape\Page_01_150X150.png" width="600" height="600"/>
+>     <img src="05_Inkscape\Page_01.png" width="600" height="600"/>
 > </div>
 
 > [!NOTE]
 > <div align="center">
->     <img src="05_Inkscape\Page_02_150X150.png" width="600" height="600"/>
+>     <img src="05_Inkscape\Page_02.png" width="600" height="600"/>
 > </div>
 
 <!-- End README -->
