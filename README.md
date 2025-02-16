@@ -22,8 +22,8 @@
 
 > [!NOTE]
 >```markdown
->| nr | Part name                 | cnt | comment             |
->| -- | ------------------------- | --- |---------------------|
+>| nr | Part name                 | cnt | Comment             |
+>|----|---------------------------|-----|---------------------|
 >| 1  | Printed part A            | x 1 |                     |
 >| 2  | Printed part B            | x 1 |                     |
 >| 3  | Ericsson flat head nut M8 | x 2 | wood furniture Part |
