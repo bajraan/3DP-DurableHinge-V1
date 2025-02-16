@@ -3,7 +3,7 @@
 
 <p align="center">
     <font size="5"><b>3DP-DurableHinge-V1</b></font><br>
-    <font size="4">Durable Hinge with steel parts enhancement</font>
+    <font size="4">Durable hinge with enhanced steel components</font>
 </p>
 
 <div align="center">
