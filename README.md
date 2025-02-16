@@ -21,14 +21,6 @@
 >**This model requires additional parts. If you are unable to obtain them, you will not be able to reproduce it properly. Please refer to the list below for the required components needed for this creation.**
 
 > [!NOTE]
->
-> 1. Printed part A 	       x1
-> 2. Printed part B 	       x1 
-> 3. Ericsson flat head nut M8 x2 [ Wood furniture Part ]
-> 4. Wood insert nut M5x12     x7 [ Wood furniture Part ]
-> 5. Screw DIN912 M5x20 	     x7 [ Regular steel Part  ]
-> 6. Steel threaded rod M8X55  x1 [ Regular steel Part  ]
-> 7. Nylon washer M8x2         x2 [ Regular steel Part  ]
 >```markdown
 >| nr | Part name                 | cnt | comment             |
 >| -- | ------------------------- | --- |---------------------|
@@ -36,13 +28,17 @@
 >| 2  | Printed part B            | x 1 |                     |
 >| 3  | Ericsson flat head nut M8 | x 2 | wood furniture Part |
 >| 4  | Wood insert nut M5x12     | x 7 | wood furniture Part |
->| 5  | Screw DIN912 M5x20        | x 7 | wood furniture Part |
->| 6  | Steel threaded rod M8X55  | x 1 | wood furniture Part |
->| 7  | Nylon washer M8x2         | x 2 | wood furniture Part |
+>| 5  | Screw DIN912 M5x20        | x 7 | Regular steel Part  |
+>| 6  | Steel threaded rod M8X55  | x 1 | Regular steel Part  |
+>| 7  | Nylon washer M8x2         | x 2 | Regular steel Part  |
 >```
 > <div align="center">
->     <img src="05_Inkscape\Page_01_150x150.png" width="500" height="500"/>
+>     <img src="05_Inkscape\Page_01_150x150.png" width="600" height="600"/>
 > </div>
 
+> [!NOTE]
+> <div align="center">
+>     <img src="05_Inkscape\Page_02_150x150.png" width="600" height="600"/>
+> </div>
 
 <!-- End README -->
