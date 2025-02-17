@@ -4,6 +4,9 @@
 *.kicad_sch-bak
 *~
 
+#FreeCAD backup files
+*.FCBak
+
 # C++/STM32 build files
 *.o
 *.d

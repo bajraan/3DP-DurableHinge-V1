@@ -37,8 +37,17 @@
 > </div>
 
 > [!NOTE]
+> it is possible to replace parts 3 and 4 with pan head screw.
+> e.g. 25mm Pan Head Pocket Hole Screws - 5201 Milescraft
+
+> [!NOTE]
 > <div align="center">
 >     <img src="05_Inkscape\Page_02.png" width="600" height="600"/>
+> </div>
+
+> [!NOTE]
+> <div align="center">
+>     <img src="05_Inkscape\Page_03.png" width="600" height="600"/>
 > </div>
 
 <!-- End README -->
