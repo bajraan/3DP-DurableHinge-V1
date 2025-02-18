@@ -20,6 +20,8 @@
 > [!IMPORTANT]
 >**This model requires additional parts. If you are unable to obtain them, you will not be able to reproduce it properly. Please refer to the list below for the required components needed for this creation.**
 
+
+<div align="center">
 ```markdown
 | nr | Part name                 | cnt | Comment             |
 |----|---------------------------|-----|---------------------|
@@ -31,6 +33,7 @@
 | 6  | Steel threaded rod M8X55  | x 1 | Regular steel Part  |
 | 7  | Nylon washer M8x2         | x 2 | Regular steel Part  |
 ```
+</div>
 <div align="center">
      <img src="05_Inkscape\Page_01.png" width="600" height="600"/>
 </div>
